@@ -1,0 +1,25 @@
+body {
+  background-color: #d4b2d8;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: #5d4e60;
+}
+
+div.img {
+  text-align: center;
+}
+
+div.buttons {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+  height: 50px;
+  width: 300px;
+}
